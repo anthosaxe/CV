@@ -1,1 +1,72 @@
+html{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
 
+}
+
+body{
+    background-color: black;
+}
+
+#page{
+    background-color: grey;
+    margin: auto 15%;
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px ;
+}
+
+#gauche{
+    width: 50%;
+    margin: 10px;
+}
+
+#gauche h1, #gauche h2{
+    color: white;
+}
+
+#droite{
+    background-color: beige;
+    width: 50%;
+    border-radius: 0px 10px 10px 0px;
+    padding-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+#cv-face{
+    width: 50%;
+    display: block;
+    border-radius: 50%;
+    margin: 20px auto;
+}
+
+p{
+    font-size: 15px;
+}
+
+#droite h1, #droite h2{
+    color: grey;
+}
+
+#low-d{
+    display: flex;
+    flex-flow: column;
+}
+
+#low-d img{
+    width: 50px;
+    padding: 0%;
+    margin: 0;
+}
+
+#git{
+    width: 25%;
+}
+
+table, tr,td{
+    border-collapse: collapse;
+    border-radius: 2px;
+    border: solid;
+    border-color: white;
+}
