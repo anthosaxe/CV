@@ -1,3 +1,3 @@
 # CV
 
-exercice html/css création d'un cv à ce lien : [CV](anthosaxe.github.io/cv.github.io)
+exercice html/css création d'un cv à ce lien : [CV](https://anthosaxe.github.io/cv.github.io)
